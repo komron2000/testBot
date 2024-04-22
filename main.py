@@ -10,4 +10,4 @@ def main(message):
 def main(message):
     bot.send_message(message.chat.id, 'Привет! На Лунпу')
 
-bot.polling(non_stop=True)  # kihohoi
+bot.polling(non_stop=True)  # kihohoirtweg
