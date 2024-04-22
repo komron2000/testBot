@@ -8,6 +8,6 @@ def main(message):
 
 @bot.message_handler(commands=['main'])
 def main(message):
-    bot.send_message(message.chat.id, 'Привет! На Лунпу')
+    bot.send_message(message.chat.id, 'Привет! На Лунпу') #sdghdrhs
 
 bot.polling(non_stop=True) #sdgfsghhh
